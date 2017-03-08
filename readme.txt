@@ -1,42 +1,12 @@
 === Gallery Photo Gallery ===
 Contributors: awordpresslife
 Tags:  album, gallery, image, image gallery, images, lightbox, photo , masonry gallery, mosaic gallery, photo, photo gallery, responsive gallery, social, social gallery, thumbnail gallery , photo gallery, photos, responsive, thumbnail, widget photo, link, video , video gallery , title , lightbox, shortcode ,album gallery, picture gallery, ligthbox gallery, wordpress gallery, responsive gallery , image gallery & video gallery 
-Donate link: http://awplife.com/
-Requires at least: 4.0
-Tested up to: 4.7
-Stable tag: 0.1.4
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 A Simple and responsive beautiful easy powerful New Photo Gallery + Video Gallery + Link Gallery + Map Gallery Plugin For WordPress with a list of tools and options for adding and editing photos/images for different views.
 
 == Description ==
 
 Responsive Simple Beautiful Easy Powerful WordPress Gallery Plugin With Light Box Style. Create gallery using custom post type and use gallery shortcode to publish your gallery anywhere in WordPress. Photo Gallery + video Gallery + Map Gallery + link Gallery 
-
-**How to use plugin?**
-
-Download & install the plugin into your site. After successful installation of the plugin go to plugins "DOC" menu for help and instructions.
-
-https://www.youtube.com/watch?v=k_T5zfi1KiI
-
-**Gallery Plugin** enables you to create several media such as image gallery, photo albums also simple picture to an Photo lightbox, youtube video, vimeo video.
-
-= GALLERY PRO FEATURES AND DEMO =
-
-> #### **Demo for Lite and Pro Version**
-
-> * [Photo Gallery Premium](http://demo.awplife.com/photo-gallery-premium/ "Photo Gallery Premium")
-> * [Photo Gallery With Multiple Sizes](http://demo.awplife.com/photo-gallery-premium/sample-page/ "Photo Gallery With Multiple Sizes")
-> * [Column Layout Demo](http://demo.awplife.com/photo-gallery-premium/column-layout-demo/ "Column Layout Demo")
-> * [Fixed Size Light Box Demo](http://demo.awplife.com/photo-gallery-premium/fixed-size-light-box-demo/ "Fixed Size Light Box Demo")
-> * [Transition Effects](http://demo.awplife.com/photo-gallery-premium/transition-effects/ "Transition Effects")
-> * [2D Transitions Effects](http://demo.awplife.com/photo-gallery-premium/2d-transitions-effects/ "2D Transitions Effects")
-> * [Thumbnails Spacing](http://demo.awplife.com/photo-gallery-premium/thumbnails-spacing/ "Thumbnails Spacing")
-> * [Backgroud Color Events](http://demo.awplife.com/photo-gallery-premium/backgroud-color-events/ "Backgroud Color Events")
-> * [Video Gallery](http://demo.awplife.com/photo-gallery-premium/video-gallery/ "Video Gallery")
-> * [Google Map Gallery](http://demo.awplife.com/photo-gallery-premium/google-map-gallery/ "Google Map Gallery")
-> * [Link Gallery](http://demo.awplife.com/photo-gallery-premium/link-gallery/ "Link Gallery")
 
 **Standard Features**
 
@@ -127,26 +97,6 @@ The following are other recommended plugins by the author:
 
 * [Slider Plugin](https://wordpress.org/plugins/responsive-slider-gallery/ "Slider Plugin") - Fully Responsive Slider Gallery For Wordpress ,You can Show Slider Into Page/Post & Widget/Sidebar By Generate Shortcode.
 
-**Buy Premium Plugin - <a href="http://awplife.com/product/responsive-slider-gallery-premium/">Click Here</a>**
-
-* [Contact Form](https://wordpress.org/plugins/new-contact-form-widget/ "Contact Form Plugin") - Contact Form Widget Shortcode Plugin For WordPress.
-
-**Buy Premium Plugin - <a href="http://awplife.com/product/contact-form-premium/">Click Here</a>**
-
-* [Best Responsive Slider Plugin](https://wordpress.org/plugins/slider-responsive-slideshow/ "Responsive Slider Plugin") - Fully Responsive Light Weight Easy Powerful WordPress Slider Slideshow Plugin.
-
-**Buy Premium Plugin - <a href="http://awplife.com/product/slider-responsive-slideshow-premium//">Click Here</a>**
-
-* [Video Gallery Plugin](https://wordpress.org/plugins/new-video-gallery/ "Best Video Gallery Plugin") - The Best Responsive video gallery For Wordpress.
-
-**Buy Premium Plugin - <a href="http://awplife.com/product/video-gallery-premium/">Click Here</a>**
-
-* [Facebook Like Share Follow Button](https://wordpress.org/plugins/new-facebook-like-share-follow-button/ "Facebook Like Share Follow Button") - Display your Facebook Like Share Follow Button Plugin into Page/Post & Widget/Sidebar in WordPress sites with very easily.
- 
-* [Google Plus Badge](https://wordpress.org/plugins/new-google-plus-badge/ "Google Plus Badge") - Google+ Badge & Profile Widget For Show Into Widget & sidebar
-
-* [Facebook Likebox Plugin](https://wordpress.org/plugins/facebook-likebox-widget-and-shortcode/ "Facebook Likebox Plugin") - Facebook Light Box Plugin For Wordpress 
- 
 == Installation ==
 
 Install  New Photo Gallery either via the WordPress.org plugin directory or by uploading the files to your server.
@@ -166,8 +116,6 @@ That's it. You're ready to go!
 Have any queries?
 
 Please post your question on plugin support forum
-
-https://wordpress.org/support/plugin/new-photo-gallery/
 
 == Screenshots ==
 
@@ -265,6 +213,3 @@ Feature Enhancements: Version 0.0.1
 * Enhancements: None
 * Bug Fix: None
 * Additional changes: None
-
-== Upgrade Notice ==
-This is an initial release. Start with version 0.0.1. and share your feedback <a href="https://wordpress.org/support/view/plugin-reviews/new-photo-gallery/">here</a>.
